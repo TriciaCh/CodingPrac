@@ -1,1 +1,2 @@
-# Leetcode Practise in C#
+# Leetcode Practise C#
+Easy Level
